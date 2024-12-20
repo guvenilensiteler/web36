@@ -51,6 +51,19 @@
         "promo_code": null,
         "promo_code_yok": "KAYIT OL 2.000₺ BONUS AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/dwB0Q1Nm",
+        "desc": [
+          "5 DAKİKADA ÇEKİM LİMİTSİZ KAZANÇ"
+        ],
+        "site": "fixbet",
+        "sort": null,
+        "color": "#adf01f",
+        "miktar": "₺555",
+        "promo_code": null,
+        "promo_code_yok": "ÜYE OL BONUSUNU AL",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -142,9 +155,12 @@
         "sites": [
           {
             "site": "mersobahis",
-            "sort": "0"
+            "sort": "1"
           },
-
+          {
+            "site": "fixbet",
+            "sort": "2"
+          },
           {
             "site": "stake",
             "sort": "3"
