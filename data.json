@@ -64,6 +64,32 @@
         "promo_code": null,
         "promo_code_yok": "ÜYE OL BONUSUNU AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://partner.bahisabiaffiliates.com/imp/bahisabi/1155",
+        "desc": [
+          "200 FREESPIN DENEME BONUSU"
+        ],
+        "site": "bahisabi",
+        "sort": null,
+        "color": "#f34624",
+        "miktar": "200FS",
+        "promo_code": null,
+        "promo_code_yok": "100.000₺ %30 CASİNO HOŞ GELDİN",
+        "slider_img": ""
+      },
+      {
+        "url": "https://partner.babilaffiliates.com/imp/babilonbet/1146",
+        "desc": [
+          "%10 LİMİTSİZ YATIRIM BONUSU"
+        ],
+        "site": "babilonbet",
+        "sort": null,
+        "color": "#00afe2",
+        "miktar": "200FS",
+        "promo_code": null,
+        "promo_code_yok": "%100 PRAGMATİC BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -158,12 +184,20 @@
             "sort": "1"
           },
           {
-            "site": "fixbet",
+            "site": "bahisabi",
             "sort": "2"
           },
           {
-            "site": "stake",
+            "site": "babilonbet",
             "sort": "3"
+          },
+          {
+            "site": "fixbet",
+            "sort": "4"
+          },
+          {
+            "site": "stake",
+            "sort": "5"
           }
         ]
       },
