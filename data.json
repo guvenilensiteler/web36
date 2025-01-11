@@ -88,6 +88,18 @@
         "miktar": "200FS",
         "promo_code": "200FSKOD",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/3DJ98FD",
+        "desc": [
+          "%20 YE VARAN YATIRIM BONUSLARIYLA"
+        ],
+        "site": "marsbahis",
+        "sort": null,
+        "color": "#e12629",
+        "miktar": "KAYIT OL",
+        "promo_code_yok": "YATIRIMIN KATLANSIN EN GÜVENİLİR SİTE",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -190,8 +202,12 @@
             "sort": "3"
           },
           {
-            "site": "fixbet",
+            "site": "marsbahis",
             "sort": "4"
+          },
+          {
+            "site": "fixbet",
+            "sort": "5"
           }
         ]
       },
