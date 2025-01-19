@@ -100,6 +100,43 @@
         "miktar": "KAYIT OL",
         "promo_code_yok": "YATIRIMIN KATLANSIN EN GÜVENİLİR SİTE",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogedayxgala",
+        "desc": [
+          "200 FREE SPIN VEYA 200 FREE BET"
+        ],
+        "site": "galabet",
+        "sort": null,
+        "color": "#58a400",
+        "miktar": "₺200",
+        "promo_code": null,
+        "promo_code_yok": "KATLA ÇEK - KAZANÇ SINIRI YOK",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexsekabet",
+        "desc": [
+          "CANLI DESTEĞE BAĞLAN BONUSUNU AL!"
+        ],
+        "site": "sekabet",
+        "sort": null,
+        "color": "#ecb50d",
+        "miktar": "₺500",
+        "promo_code": "OGEDAY500",
+        "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/1eME5M9j",
+        "desc": [
+          "KAYIT OL 250 TL DENEME BONUSU AL"
+        ],
+        "site": "betkanyon",
+        "sort": null,
+        "color": "#ff4221",
+        "miktar": "₺250",
+        "promo_code_yok": "HEMEN ÜYE OL 250₺ BONUSU AL",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -208,6 +245,18 @@
           {
             "site": "fixbet",
             "sort": "5"
+          },
+          {
+            "site": "sekabet",
+            "sort": "6"
+          },
+          {
+            "site": "betkanyon",
+            "sort": "7"
+          },
+          {
+            "site": "galabet",
+            "sort": "8"
           }
         ]
       },
