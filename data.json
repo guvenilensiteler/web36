@@ -137,6 +137,19 @@
         "miktar": "₺250",
         "promo_code_yok": "HEMEN ÜYE OL 250₺ BONUSU AL",
         "slider_img": ""
+      },
+      {
+        "url": "https://shortlink.life/asdfas",
+        "desc": [
+          "500₺ DENEME BONUSU %300 15.000TL +450 FS"
+        ],
+        "site": "grandpashabet",
+        "sort": null,
+        "color": "#efb521",
+        "miktar": "₺500",
+        "promo_code": null,
+        "promo_code_yok": "HOŞ GELDİN BONUSU 10,000,000 TL ÇEKİM İMKANI",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -239,24 +252,28 @@
             "sort": "3"
           },
           {
-            "site": "marsbahis",
+            "site": "grandpashabet",
             "sort": "4"
           },
           {
-            "site": "fixbet",
+            "site": "marsbahis",
             "sort": "5"
           },
           {
-            "site": "sekabet",
+            "site": "fixbet",
             "sort": "6"
           },
           {
-            "site": "betkanyon",
+            "site": "sekabet",
             "sort": "7"
           },
           {
-            "site": "galabet",
+            "site": "betkanyon",
             "sort": "8"
+          },
+          {
+            "site": "galabet",
+            "sort": "9"
           }
         ]
       },
