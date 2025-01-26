@@ -150,6 +150,31 @@
         "promo_code": null,
         "promo_code_yok": "HOŞ GELDİN BONUSU 10,000,000 TL ÇEKİM İMKANI",
         "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexmerit",
+        "desc": [
+          "100 FS DENEME BONUSU - %30 KAYIP BONUSU"
+        ],
+        "site": "meritbet",
+        "sort": null,
+        "color": "#b09061",
+        "miktar": "₺100",
+        "promo_code_yok": "GÜNLÜK 1.999.999 TL ÇEKİM",
+        "slider_img": ""
+      },
+      {
+        "url": "https://bit.ly/ogexamk",
+        "desc": [
+          "KAYIT OL 100₺ DENEME BONUSU AL"
+        ],
+        "site": "amkbet",
+        "sort": null,
+        "color": "#ffd202",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "%30 KAYIP BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -272,8 +297,16 @@
             "sort": "8"
           },
           {
-            "site": "galabet",
+            "site": "meritbet",
             "sort": "9"
+          },
+          {
+            "site": "amkbet",
+            "sort": "10"
+          },
+          {
+            "site": "galabet",
+            "sort": "11"
           }
         ]
       },
