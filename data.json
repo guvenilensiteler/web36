@@ -175,6 +175,19 @@
         "promo_code": null,
         "promo_code_yok": "%30 KAYIP BONUSU",
         "slider_img": ""
+      },
+      {
+        "url": "https://paribahis.naiofdsni.com/tr/casino?partner=p4866p20596p6817#registration",
+        "desc": [
+          "BEDAVA 150 FREESPIN - TIKLA AL!"
+        ],
+        "site": "paribahis",
+        "sort": null,
+        "color": "#f8ff13",
+        "miktar": "150FS",
+        "promo_code": null,
+        "promo_code_yok": "PARİBAHİS; 55.000 TL HOŞ GELDİN BONUSU",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -264,6 +277,10 @@
         "name": "Elmas Site",
         "sort": "3",
         "sites": [
+          {
+            "site": "paribahis",
+            "sort": "0"
+          },
           {
             "site": "mersobahis",
             "sort": "1"
